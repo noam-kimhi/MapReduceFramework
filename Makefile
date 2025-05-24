@@ -22,7 +22,7 @@ LDFLAGS=-L. -lMapReduceFramework
 TARFLAGS=-cvf
 TARNAME=MapReduceFramework.tar
 TARSRCS=$(LIBSRC) include/MapReduceClient.h include/MapReduceFramework.h \
-        include/JobStateManager.h include/Barrier.h Makefile
+        include/JobStateManager.h include/Barrier.h Makefile CMakeLists.txt
 
 # Library name
 LIBRARY=libMapReduceFramework.a
