@@ -1,6 +1,6 @@
 
 #include "../include/MapReduceFramework.h"
-#include "../JobStateManager.h"
+#include "../include/JobStateManager.h"
 #include "../include/Barrier.h"
 
 #include <atomic>
