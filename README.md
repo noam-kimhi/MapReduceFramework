@@ -12,11 +12,11 @@ allowing for scalable and efficient computation of large datasets.
 # 🧾 Table of Contents
 - [📘 Overview](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-Overview)
 - [🧾 Table of Contents](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-Table-of-Contents)
-- [⚙️ Features](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-features)
-- [🛠️ Requirements](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-requirements)
+- [⚙️ Features](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#%EF%B8%8F-features)
+- [🛠️ Requirements](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#%EF%B8%8F-requirements)
 - [📦 Installation](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-installation)
 - [🚀 Usage](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-usage)
-- [🗂️ Project Structure](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-Project-Structure)
+- [🗂️ Project Structure](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#%EF%B8%8F-project-structure)
 - [📄 License](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-license)
 
 # ⚙️ Features
