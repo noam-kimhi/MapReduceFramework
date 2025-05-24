@@ -13,7 +13,7 @@
 	printf("stage %d, %f%% \n", state.stage, state.percentage)
 #define DONE "Done!\n"
 #define PRINT_CHARACTER(c, count) \
-	printf("The character %c appeared %d time%s\n", c, count, count > 1 ? "s" : "")
+	printf("The character '%c' appeared %d time%s\n", c, count, count > 1 ? "s" : "")
 
 class VString final : public V1 {
 public:
