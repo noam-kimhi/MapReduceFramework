@@ -75,8 +75,7 @@ To use the MapReduce framework, follow these steps:
      ```
    - Or using GNU Makefile:
      ```
-     make SampleClient
-     ./SampleClient (or ./SampleClient.exe on Windows)
+     make runSampleClient
      ```
      
 # 🗂️ Project Structure
