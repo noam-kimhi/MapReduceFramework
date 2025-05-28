@@ -12,7 +12,8 @@ void Barrier::barrier() {
         // indicating that all threads have reached the barrier.
         cv.wait(lock, [this, gen] { return gen != generation; });
     } else {
-        // If all threads have reached the barrier, reset the count and generation.
+        // If all threads have reached the barrier,
+        // reset the count and increment the ageneration.
         count = 0;
         generation++;
         cv.notify_all(); // Notify all waiting threads that the barrier has been crossed.
