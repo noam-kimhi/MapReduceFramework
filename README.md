@@ -8,6 +8,7 @@ This project was developed by [**Noam Kimhi**](https://github.com/noam-kimhi) an
 The Hebrew University of Jerusalem ([HUJI](https://en.huji.ac.il/)).\
 The framework enables the distribution of data processing tasks across multiple threads,
 allowing for scalable and efficient computation of large datasets.
+> 🎓 Final Grade: **100**
  
 # 🧾 Table of Contents
 - [📘 Overview](https://github.com/OrF8/MapReduceFramework?tab=readme-ov-file#-Overview)
